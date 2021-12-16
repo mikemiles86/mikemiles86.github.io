@@ -1,33 +1,9 @@
-# Gradfolio
+# Mike Miles
 
-responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio. [Here's a live demo](https://jitinnair1.github.io/gradfolio/)
+I am a technical leader and developer working in the web development space since 2003.  A majority of my career has been spent working in an agency setting, leading and working on teams to architect robust web experiences for customers large and small. 
 
-## Features
-- Responsive
-- Respects Dark Mode preference set by user
-- Projects Page to showcase your work/side projects
-- Easily link to your profiles on ResearchGate and ORCID
+I am currently the Director of Web Development for [MIT Sloan](https://mitsloan.mit.edu) where I lead the development, maintenance and growth of the public digital properties for the school, as well as, the development team that supports them.
 
-## Installation
-* Click on `Use this template`
-* Your new site should be ready at https://username.github.io/gradfolio/
-* You can now modify the contents and personalise the template
+I am a public speaker and present at technical conferences around the world. You can view recordings of my past talks and listing of my upcoming presentations on my [Talks](https://talks.mike-miles.com/) page.
 
-Alternatively, you can [download the source files](https://github.com/jitinnair1/gradfolio/archive/master.zip) and make changes locally. 
-
-To test these changes, open a terminal inside the source folder and use `jekyll serve --incremental --trace` to make it available on a local server (typically http://localhost:4000/)
-
-The `--incremental` flag ensures that any changes you make are reflected in your browser in real time and the `--trace` option might be useful for debugging if things break while you are changing the source files.
-
-Once you have personalised and tested the site, you can create a new repo, upload these files and host your website from the repo.
-
-## Based on
-- [hagura](https://github.com/sharu725/hagura)
-- [al-folio](https://github.com/alshedivat/al-folio)
-- [noir](https://github.com/essentialenemy/noir)
-- [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)
-
-## License
-MIT License
-
-[![JekyllThemes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com)
+I am also the host of the podcast [Developing Up](https://www.developingup.com); a podcast focused on the non-technical side of being a developer.

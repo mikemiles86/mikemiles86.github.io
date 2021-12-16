@@ -7,8 +7,10 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+I am a technical leader and developer working in the web development space since 2003.  A majority of my career has been spent working in an agency setting, leading and working on teams to architect robust web experiences for customers large and small. 
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+I am currently the Director of Web Development for [MIT Sloan](https://mitsloan.mit.edu) where I lead the development, maintenance and growth of the public digital properties for the school, as well as, the development team that supports them.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+I am a public speaker and present at technical conferences around the world. You can view recordings of my past talks and listing of my upcoming presentations on my [Talks](https://talks.mike-miles.com/) page.
+
+I am also the host of the podcast [Developing Up](https://www.developingup.com); a podcast focused on the non-technical side of being a developer.

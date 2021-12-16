@@ -1,11 +1,11 @@
-### your site title here
+### Mike Miles
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Mike Miles
+description: Web developer, podcast host, public speaker, average guy
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /mikemiles86 #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: mikemiles86@gmail.com
 
 
 highlighter: rouge
@@ -17,12 +17,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+facebook: false
+twitter: "mikemiles86"
+linkedin: "mikemiles86"
+github: "mikemiles86"
+researchgate: false
+orcid: false
 
 highlighter: rouge
 markdown: kramdown
@@ -44,7 +44,7 @@ compress_html:
 #collection
 collections:
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 sass:
