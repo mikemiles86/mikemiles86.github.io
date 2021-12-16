@@ -3,7 +3,7 @@
 title: Mike Miles
 description: Web developer, podcast host, public speaker, average guy
 
-baseurl: /mikemiles86 #name of GitHub repository
+baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: mikemiles86@gmail.com
 
