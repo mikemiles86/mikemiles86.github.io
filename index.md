@@ -13,4 +13,4 @@ I am currently the Director of Web Development for [MIT Sloan](https://mitsloan.
 
 I am a public speaker and present at technical conferences around the world. You can view recordings of my past talks and listing of my upcoming presentations on my [Talks](https://talks.mike-miles.com/) page.
 
-I am also the host of the podcast [Developing Up](https://www.developingup.com); a podcast focused on the non-technical side of being a developer.
+From 2016 to 2020 I hosted the podcast [Developing Up](https://www.developingup.com); a podcast that was focused on the non-technical side of being a developer.
