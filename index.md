@@ -14,3 +14,5 @@ I am currently the Director of Web Development for [MIT Sloan](https://mitsloan.
 I am a public speaker and present at technical conferences around the world. You can view recordings of my past talks and listing of my upcoming presentations on my [Talks](https://talks.mike-miles.com/) page.
 
 From 2016 to 2020 I hosted the podcast [Developing Up](https://www.developingup.com); a podcast that was focused on the non-technical side of being a developer.
+
+I am also the creator / maintainer of the book guessing game [Book Baffle](https://www.bookbaffle.com).
