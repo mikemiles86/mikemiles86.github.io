@@ -7,8 +7,6 @@ profile:
 published: true
 ---
 
-# I help teams build better websites, better workflows, and better ways of working.
-
 I’m Mike Miles, a technical leader, speaker, and longtime open-source practitioner with a deep interest in how web teams grow, improve, and do their best work.
 
 I currently serve as the Director of Web Development for [MIT Sloan](https://mitsloan.mit.edu), where I lead the development, maintenance, and growth of the school’s public digital properties, along with the team that supports them.
