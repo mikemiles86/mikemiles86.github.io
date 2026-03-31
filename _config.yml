@@ -1,10 +1,10 @@
 ### Mike Miles
 
 title: Mike Miles
-description: Web developer, public speaker, average guy
+description: Technical Leader in Web Platforms, Drupal, and Digital Delivery
 
 baseurl: / #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+url: "https://www.mike-miles.com" #custom url to be used instead of GitHub repository
 email: mikemiles86@gmail.com
 
 
@@ -18,7 +18,7 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 facebook: false
-twitter: "mikemiles86"
+twitter: false
 linkedin: "mikemiles86"
 github: "mikemiles86"
 researchgate: false

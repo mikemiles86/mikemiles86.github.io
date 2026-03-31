@@ -1,9 +1,17 @@
 # Mike Miles
 
-I am a technical leader and developer working in the web development space since 2003.  A majority of my career has been spent working in an agency setting, leading and working on teams to architect robust web experiences for customers large and small. 
+I lead modern web teams and digital platforms for complex organizations.
 
-I am currently the Director of Web Development for [MIT Sloan](https://mitsloan.mit.edu) where I lead the development, maintenance and growth of the public digital properties for the school, as well as, the development team that supports them.
+I’m a technical leader, speaker, and longtime open-source practitioner focused on helping teams build better websites, stronger development workflows, and more sustainable digital systems.
 
-I am a public speaker and present at technical conferences around the world. You can view recordings of my past talks and listing of my upcoming presentations on my [Talks](https://talks.mike-miles.com/) page.
+I currently serve as the Director of Web Development for [MIT Sloan](https://mitsloan.mit.edu), where I lead the development, maintenance, and growth of the school’s public digital properties, as well as the team that supports them.
 
-From 2016 to 2020 I hosted the podcast [Developing Up](https://www.developingup.com); a podcast that was focused on the non-technical side of being a developer.
+My career in web development began in 2003, with much of that time spent in agency environments leading teams, architecting solutions, and helping organizations turn complex needs into clear, scalable technical execution. That experience shaped how I think about digital work: success comes not just from the technology itself, but from strong systems, thoughtful leadership, and sustainable ways of working.
+
+I’m also an active public speaker. My talks focus on topics such as modern web development, Drupal, technical leadership, practical AI adoption, testing, and delivery quality. You can explore recordings of past talks and upcoming presentations on my [Talks](https://talks.mike-miles.com/) page.
+
+From 2016 to 2020, I hosted the podcast [Developing Up](https://www.developingup.com), which focused on the non-technical side of being a developer and building a strong career in tech.
+
+Outside of my core professional work, I’m also the creator and maintainer of the book guessing game [Book Baffle](https://www.bookbaffle.com).
+
+If you’d like to learn more about my speaking, background, or work, feel free to get in touch.
