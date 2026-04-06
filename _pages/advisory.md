@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Advisory
-permalink: /about/
+permalink: /advisory/
 published: true
 ---
 
