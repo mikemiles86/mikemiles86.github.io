@@ -9,16 +9,17 @@ published: true
 
 Thanks for visiting.
 
-If you’d like to get in touch, I’d be glad to hear from you. Whether it’s about a speaking opportunity, web development leadership, Drupal, technical strategy, AI in development workflows, or something else connected to the work I do, feel free to reach out.
+If you’d like to get in touch, I’d be glad to hear from you. If you’re looking for a speaker, workshop leader, or strategic advisor on web modernization, digital governance, performance, Drupal, or responsible AI adoption for digital teams, feel free to reach out.
 
 I’m especially interested in conversations around:
 
-- conference, camp, and summit speaking opportunities
-- panels, workshops, and facilitated discussions
-- web platform strategy and technical leadership
-- Drupal and open-source development
-- testing, delivery quality, and sustainable team workflows
-- practical, thoughtful use of AI in development work
+- Conference, camp, and summit speaking opportunities
+- Panels, workshops, and facilitated discussions
+- Web modernization strategy and platform direction
+- Digital governance and operating clarity
+- Drupal sustainability and maintainability
+- Delivery quality, performance, and healthier team workflows
+- Practical, responsible AI adoption for web and digital teams
 
 The best way to reach me is by email:
 
