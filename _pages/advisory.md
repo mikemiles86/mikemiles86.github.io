@@ -11,6 +11,16 @@ I provide selective strategic advisory for organizations working through web mod
 
 This work is designed for teams that need clearer direction, stronger decision-making, and a practical path forward before committing to larger execution efforts.
 
+## Featured offer
+
+### AI Workflow Advisory for Web Teams
+
+A focused advisory engagement for teams that want to explore where AI can fit into their current development workflow in ways that are practical, responsible, and sustainable.
+
+This work helps teams identify realistic opportunities, clarify risks and concerns, and build a clearer path for responsible adoption.
+
+[Learn more](/advisory/ai-workflow-advisory-web-teams)
+
 ## What this work helps with
 
 Advisory engagements are typically focused on questions like these:
@@ -49,7 +59,7 @@ This work is generally a good fit for:
 
 ## Selected advisory work
 
-I provided advisory services for companies such as [Carnegie](https://www.carnegiehighered.com/) focused on identifying practical opportunities for AI within the web development team’s existing workflows.
+I have provided advisory services for companies such as [Carnegie](https://www.carnegiehighered.com/) focused on identifying practical opportunities for AI within the web development team’s existing workflows.
 
 That work included:
 
